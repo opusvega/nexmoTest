@@ -1,0 +1,12 @@
+[
+    {
+        "action": "talk",
+        "voiceName": "Russell",
+        "text": "Hi my name is vega. Welcome to opus"
+    },
+    {
+        "action": "talk",
+        "voiceName": "Russell",
+        "text": "what can i do for you?"
+    }
+]
